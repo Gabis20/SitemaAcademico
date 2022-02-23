@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jacksonwss\\.nuget\\packages\\": {},
+    "C:\\Users\\aluno\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\SitemaAcademico\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
       "projectName": "SistemaAcademico",
-      "projectPath": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
-      "packagesPath": "C:\\Users\\jacksonwss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\obj\\",
+      "projectPath": "C:\\Users\\aluno\\SitemaAcademico\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno\\SitemaAcademico\\SistemaAcademico\\SistemaAcademico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jacksonwss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
